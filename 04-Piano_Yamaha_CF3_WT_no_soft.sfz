@@ -1,5 +1,8 @@
 // Master Yamaha CF3
 
+<global>
+sustain_lo=64
+
 <master>
 locc64=0 hicc64=42
 #include "Pedal_off_WT.sfz"
