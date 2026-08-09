@@ -5,6 +5,9 @@
 // Date      : 2026/07/29
 // Comment   : Maestro Concert Grand Piano Created by Mats Helgesson Optimized for sf2 format.
 
+<global>
+sustain_lo=64
+
 <group>
 lokey=21 hikey=108
 lovel=0 hivel=26
